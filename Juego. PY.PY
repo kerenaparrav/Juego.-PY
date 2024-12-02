@@ -1,6 +1,7 @@
 import random
 
 op = ["piedra", "papel", "tijeras"]
+sep = "-" * 10
 
 while True:
     user = input ("Elije: piedra, papel o tijeras: ").lower ()
@@ -19,6 +20,7 @@ while True:
          print (f"Ganaste!, {user} ganas en contra de {pc}")
     else:
          print(f"\nPerdiste, {user}pierde en contra de {pc}")
+    print (f"{sep}Fin del juego{sep}")
 
 
     
