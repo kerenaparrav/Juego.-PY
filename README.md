@@ -1,5 +1,5 @@
 # Piedra, Papel o Tijera 
-### **Descrpción**
+### **Descripción**
 Este programa es un Juego clásico de "Piedra, Papel o Tijera" implementado en Python. El usuario puede jugar contra la computadora, la cual toma desiciones al azar.
 ### **Objetivo del Programa**
 El objetivo principal de este programa es:
